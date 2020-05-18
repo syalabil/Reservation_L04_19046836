@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="reservation">RESERVATION</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="size_of_group">Size of group</string>
+    <string name="date_of_booking">DATE OF BOOKING : </string>
+    <string name="time_of_booking">TIME OF BOOKING : </string>
+    <string name="check_if_wanted_smoking_area">Check if wanted Smoking Area</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
